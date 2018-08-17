@@ -1,0 +1,6 @@
+C:\Users\yatse\RiderProjects\SSL\MemoryChallenge.Adapter\bin\Debug\MemoryChallenge.Adapter.dll
+C:\Users\yatse\RiderProjects\SSL\MemoryChallenge.Adapter\bin\Debug\MemoryChallenge.Adapter.pdb
+C:\Users\yatse\RiderProjects\SSL\MemoryChallenge.Adapter\obj\Debug\MemoryChallenge.Adapter.csprojResolveAssemblyReference.cache
+C:\Users\yatse\RiderProjects\SSL\MemoryChallenge.Adapter\obj\Debug\MemoryChallenge.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\yatse\RiderProjects\SSL\MemoryChallenge.Adapter\obj\Debug\MemoryChallenge.Adapter.dll
+C:\Users\yatse\RiderProjects\SSL\MemoryChallenge.Adapter\obj\Debug\MemoryChallenge.Adapter.pdb

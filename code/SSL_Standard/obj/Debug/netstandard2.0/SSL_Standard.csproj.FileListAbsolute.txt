@@ -1,0 +1,9 @@
+C:\Users\yatse\RiderProjects\SSL\SSL_Standard\bin\Debug\netstandard2.0\SSL_Standard.deps.json
+C:\Users\yatse\RiderProjects\SSL\SSL_Standard\bin\Debug\netstandard2.0\SSL_Standard.dll
+C:\Users\yatse\RiderProjects\SSL\SSL_Standard\bin\Debug\netstandard2.0\SSL_Standard.pdb
+C:\Users\yatse\RiderProjects\SSL\SSL_Standard\obj\Debug\netstandard2.0\SSL_Standard.csproj.CoreCompileInputs.cache
+C:\Users\yatse\RiderProjects\SSL\SSL_Standard\obj\Debug\netstandard2.0\SSL_Standard.AssemblyInfoInputs.cache
+C:\Users\yatse\RiderProjects\SSL\SSL_Standard\obj\Debug\netstandard2.0\SSL_Standard.AssemblyInfo.cs
+C:\Users\yatse\RiderProjects\SSL\SSL_Standard\obj\Debug\netstandard2.0\SSL_Standard.dll
+C:\Users\yatse\RiderProjects\SSL\SSL_Standard\obj\Debug\netstandard2.0\SSL_Standard.pdb
+C:\Users\yatse\RiderProjects\SSL\SSL_Standard\obj\Debug\netstandard2.0\SSL_Standard.csprojResolveAssemblyReference.cache

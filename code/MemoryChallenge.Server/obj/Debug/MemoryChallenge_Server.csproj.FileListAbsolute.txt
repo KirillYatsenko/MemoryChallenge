@@ -1,0 +1,10 @@
+C:\Users\yatse\source\repos\MemoryChallenge\MemoryChallenge\bin\Debug\MemoryChallenge.exe.config
+C:\Users\yatse\source\repos\MemoryChallenge\MemoryChallenge\bin\Debug\MemoryChallenge.exe
+C:\Users\yatse\source\repos\MemoryChallenge\MemoryChallenge\bin\Debug\MemoryChallenge.pdb
+C:\Users\yatse\source\repos\MemoryChallenge\MemoryChallenge\bin\Debug\MemoryChallenge_Adapter.dll
+C:\Users\yatse\source\repos\MemoryChallenge\MemoryChallenge\bin\Debug\MemoryChallenge_Adapter.pdb
+C:\Users\yatse\source\repos\MemoryChallenge\MemoryChallenge\obj\Debug\MemoryChallenge_Server.csprojResolveAssemblyReference.cache
+C:\Users\yatse\source\repos\MemoryChallenge\MemoryChallenge\obj\Debug\MemoryChallenge_Server.csproj.CoreCompileInputs.cache
+C:\Users\yatse\source\repos\MemoryChallenge\MemoryChallenge\obj\Debug\MemoryChallenge_Server.csproj.CopyComplete
+C:\Users\yatse\source\repos\MemoryChallenge\MemoryChallenge\obj\Debug\MemoryChallenge.exe
+C:\Users\yatse\source\repos\MemoryChallenge\MemoryChallenge\obj\Debug\MemoryChallenge.pdb

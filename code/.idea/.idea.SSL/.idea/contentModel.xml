@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\yatse\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_SSL.-276762537.00" t="ExcludeRecursive" />
+    <e p="C:\Users\yatse\RiderProjects\SSL" t="IncludeFlat">
+      <e p="Client" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Client.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Client.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="ConsoleApp1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="ConsoleApp1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SSL.sln" t="IncludeFlat" />
+      <e p="SSL_" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Infrastructure" t="Include">
+          <e p="Serialization.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="SSL_.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Socket" t="Include">
+          <e p="SslSocket.cs" t="Include" />
+        </e>
+        <e p="SSL_.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WpfApplication1" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+        <e p="WpfApplication1.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

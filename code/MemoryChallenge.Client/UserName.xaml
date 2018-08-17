@@ -1,0 +1,15 @@
+﻿<Window x:Class="MemoryChallenge_Client.Windows.UserName"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MemoryChallenge_Client.Windows"
+        mc:Ignorable="d"
+        Title="UserName" Height="216.578" Width="500.401">
+    <Grid Margin="0,0,2,-1">
+        <Label Content="User Name" HorizontalAlignment="Left" Margin="178,21,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Stencil" Width="126" FontSize="20"/>
+        <TextBox x:Name="tbUserName" Height="31" Margin="0,68,46,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" FontFamily="Stencil" HorizontalAlignment="Right" Width="403"/>
+        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Left" Margin="137,125,0,0" VerticalAlignment="Top" Width="204" FontSize="20" FontFamily="Stencil" Height="34" Click="btnStart_Click"/>
+
+    </Grid>
+</Window>
